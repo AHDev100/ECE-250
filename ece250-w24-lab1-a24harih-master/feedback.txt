@@ -1,0 +1,103 @@
+Project Name: ece250-w24-lab1-a24harih
+
+
+===> Project Clone Result:
+Project Name: ece250-w24-lab1-a24harih
+user: ece250-w24-lab1-a24harih
+files: True
+Last Update Date: 2024-02-11T22:30:37.316-05:00
+Deadline: 2024-02-12, 11:59pm
+Penalty Percentage: 0
+Project ID: 87949
+
+===> Make Result: 
+success
+
+===> Marking Scheme - test cases
+******* TestCases: 90%
+   There are 9 test input files.
+** TestCases 1-8: 59%
+   Input files 01 through 08 test specific functionality. Each line in those files is worth 1 mark, for a total of 59 marks.
+** TestCases 9: 31%
+   Test 09 stress tests the code a huge number of times. It is worth 31 marks total, graded as follows:
+   +1: did not segfault
+   Then, there are 500K lines in that file:
+   +10: at least 50% of the lines correct
+   +20: at least 75% of the lines correct
+   +30: all lines correct
+   With no part marks (so if they get 65% of the lines correct they don’t get +15, just +10).
+******* Memory Leak : 10%
+   +10: if the total memory leak is zero
+
+
+===> Performance - time (CPU: AMD Ryzen 9 5900X 12-Core Processor):
+Project Name: ece250-w24-lab1-a24harih
+Test 1 Result: success
+Test 1 Elapsed Time (s): 0.0398406982421875
+Test 2 Result: success
+Test 2 Elapsed Time (s): 0.0236053466796875
+Test 3 Result: success
+Test 3 Elapsed Time (s): 0.035979270935058594
+Test 4 Result: success
+Test 4 Elapsed Time (s): 0.06782317161560059
+Test 5 Result: success
+Test 5 Elapsed Time (s): 0.06779170036315918
+Test 6 Result: success
+Test 6 Elapsed Time (s): 0.027614593505859375
+Test 7 Result: success
+Test 7 Elapsed Time (s): 0.03590035438537598
+Test 8 Result: success
+Test 8 Elapsed Time (s): 0.03970742225646973
+Test 9 Result: success
+Test 9 Elapsed Time (s): 3.2541677951812744
+
+
+===> Test cases - Scores:
+Project Name: ece250-w24-lab1-a24harih
+Score01: 12
+Score02: 4
+Score03: 5
+Score04: 5
+Score05: 5
+Score06: 5
+Score07: 7
+Score08: 16
+Score09: 500000
+Total Score: 500059
+Mismatched Lines: 
+Skipped Tests: 0
+
+
+===> STL Usage Results:
+Project Name: ece250-w24-lab1-a24harih
+driver.cpp (STL Usage): 0
+game.h (STL Usage): 0
+game.cpp (STL Usage): 0
+Total STL Usage: 0
+
+
+===> OOP Principles Results:
+Project Name: ece250-w24-lab1-a24harih
+Class Definition: Yes
+Access Modifiers: No Access Modifiers
+Encapsulation: Good
+Inheritance: Good
+Polymorphism: No Polymorphism
+Constructor/Destructor: No Constructor/Destructor
+
+
+===> References Result:
+Project Name: ece250-w24-lab1-a24harih
+References: 
+
+
+===> Valgrind Results:
+Project Name: ece250-w24-lab1-a24harih
+test01.in Log: N/A
+test01.in Memory Leak: N/A
+test07.in Log: N/A
+test07.in Memory Leak: N/A
+test08.in Log: N/A
+test08.in Memory Leak: N/A
+Total Memory Leak: 0
+Valgrind Errors: 
